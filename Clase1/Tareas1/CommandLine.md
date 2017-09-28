@@ -1,4 +1,4 @@
-##How to use command line (Cómo usar la línea de comando)
+## How to use command line (Cómo usar la línea de comando)
 
 ### ¿Qué es la línea de comandos?
 
