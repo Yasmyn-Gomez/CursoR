@@ -54,7 +54,7 @@ Para crear un enlace de tipo _inline_ el texto que dirigirá al enlace se encier
 Este link te guiará al repositorio [CursoR](https://github.com/Yasmyn-Gomez/CursoR.git) de está página
 - Otro ejemplo
 También podemos hacer que una frase o cabecere que contiene un link tenga un formato como
-`#### Para el mismo enlace al [_repositorio_ **CursoR**](https://github.com/Yasmyn-Gomez/CursoR.git)`
-#### Para el mismo enlace al [_repositorio_ **CursoR**](https://github.com/Yasmyn-Gomez/CursoR.git)
+`#### Para el mismo enlace al [repositorio **CursoR**](https://github.com/Yasmyn-Gomez/CursoR.git)`
+#### Para el mismo enlace al [repositorio **CursoR**](https://github.com/Yasmyn-Gomez/CursoR.git)
 
 
