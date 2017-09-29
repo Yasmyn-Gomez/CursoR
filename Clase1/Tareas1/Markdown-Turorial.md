@@ -50,11 +50,11 @@ Hay dos tipos diferentes de lnks en Markdown, el primero es el _inline link_ y e
 
 Para crear un enlace de tipo _inline_ el texto que dirigirá al enlace se encierra entre **[]** y el enelace entre **()** de la forma`[texto que dirigirá al enlace](url del enlace)` si añadir espacios entre los corchetes y paréntesis.
 
-- Por ejemplo  
+Por ejemplo  
 `Este link te guiará al repositorio [CursoR](https://github.com/Yasmyn-Gomez/CursoR.git) de está página`  
 Este link te guiará al repositorio [CursoR](https://github.com/Yasmyn-Gomez/CursoR.git) de está página
 
-- Otros ejemplos  
+Otros ejemplos  
 También podemos hacer que una cabecera contenga un link  
 `#### Para el mismo enlace al [repositorio CursoR](https://github.com/Yasmyn-Gomez/CursoR.git)`  
 #### Para el mismo enlace al [repositorio CursoR](https://github.com/Yasmyn-Gomez/CursoR.git)
