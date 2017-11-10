@@ -5,7 +5,6 @@
 set.seed(75)
 aMat <- matrix(sample(10,60,replace=T),nr=6)
 aMat
-aMat[1,5]
 c=0 # c contador para la cant de 7's en cada fila
 x <- c(0,0,0,0,0,0) # el vector x representa las filas con 2 7's
 # P.ej. si en la fila 3 hay dos 7's x sera 0 0 1 0 0 0
