@@ -113,13 +113,16 @@ Nótese que si escribimos el enlace sin colocar una descripción, también se mu
 ##### Reference image link
 Para el segundo estilo de imagen, llamado _reference image link_, usaremos la misma sintaxis que para una enlace de tipo _reference link_ incluyendo también el símbolo `!` antes de la descripción de la imagen como sigue.
 
-`![lenguaje R][R]`
-`![RStudio][RS]`
-`[R]:http://www.enhacke.com/wp-content/uploads/2017/05/enhacke-ciber-seguridad-0066.jpg`
+`![lenguaje R][R]`  
+`![RStudio][RS]`  
+`[R]:http://www.enhacke.com/wp-content/uploads/2017/05/enhacke-ciber-seguridad-0066.jpg`  
 `[RS]:http://www.dms.umontreal.ca/wiki/images/thumb/e/e9/RStudio-Ball.png/360px-RStudio-Ball.png`
 
-![lenguaje R][R]
+![lenguaje R][R]  
 ![RStudio][RS]
+
+R y RStudio.
+
 [R]:http://www.enhacke.com/wp-content/uploads/2017/05/enhacke-ciber-seguridad-0066.jpg
 [RS]:http://www.dms.umontreal.ca/wiki/images/thumb/e/e9/RStudio-Ball.png/360px-RStudio-Ball.png
 
