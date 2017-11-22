@@ -115,13 +115,14 @@ Para el segundo estilo de imagen, llamado _reference image link_, usaremos la mi
 
 `![lenguaje R][R]`  
 `![RStudio][RS]`  
+`Si se desea aquí puede agregar texto.`
 `[R]:http://www.enhacke.com/wp-content/uploads/2017/05/enhacke-ciber-seguridad-0066.jpg`  
 `[RS]:http://www.dms.umontreal.ca/wiki/images/thumb/e/e9/RStudio-Ball.png/360px-RStudio-Ball.png`
 
+Símbolos de R y RStudio.
 ![lenguaje R][R]  
 ![RStudio][RS]
 
-R y RStudio.
 
 [R]:http://www.enhacke.com/wp-content/uploads/2017/05/enhacke-ciber-seguridad-0066.jpg
 [RS]:http://www.dms.umontreal.ca/wiki/images/thumb/e/e9/RStudio-Ball.png/360px-RStudio-Ball.png
