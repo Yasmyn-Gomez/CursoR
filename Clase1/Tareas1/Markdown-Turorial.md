@@ -103,7 +103,7 @@ Para el primer estilo de imagen, llamado _inline image link_, colocamos el símb
 
 Esto nos mostrará la siguiente imagen:
 
-![Rain](http://st.cdjapan.co.jp/pictures/l/00/27/KSCL-1597.jpg)
+![Rain by SID](http://st.cdjapan.co.jp/pictures/l/00/27/KSCL-1597.jpg)
 
 Nótese que si escribimos el enlace sin colocar una descripción, también se muestra la imagen  
 `![](https://i.imgur.com/vOoeDWF.jpg)`
